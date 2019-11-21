@@ -1,10 +1,10 @@
 # Setting Up Wi Fi
 
-## How to setup wi-fi on Raspberry Pi 3 Model B+
+## How to setup wi-fi on Raspberry Pi 4 Model B
 
 #### Easy Setup (recommended):
 
-- [Enable Wi-fi on your Raspberry Pi 3 Model B+](./01-getting-started.md)
+- [Enable Wi-fi on your Raspberry Pi 4 Model B](./01-getting-started.md)
 
 ---
 #### Manual Setup
