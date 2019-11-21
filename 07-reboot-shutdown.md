@@ -1,6 +1,6 @@
 # Reboot and Shutdwn
 
-## How to Reboot and Shutdown Raspberry Pi 3 Model B+
+## How to Reboot and Shutdown Raspberry Pi 4 Model B
 
 ---
 #### Reboot
