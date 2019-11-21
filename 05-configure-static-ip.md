@@ -1,6 +1,6 @@
 # Configure Static IP
 
-## How to configure Static IP on Raspberry Pi 3 Model B+
+## How to configure Static IP on Raspberry Pi 4 Model B
 
 #### Prerequisite(s):
 > _Note: write down IP addresses and names returned by following commands_
