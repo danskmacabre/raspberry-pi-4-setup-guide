@@ -1,9 +1,9 @@
 # Setting Up Docker Swarm Cluster
 
-# How to do a Raspberry Pi 3 Model B+ Docker Swarm Cluster setup
+# How to do a Raspberry Pi 4 Model B Docker Swarm Cluster setup
 
 #### Prerequisite(s):
-- [Install and Configure Docker on your Raspberry Pi 3 Model B+](./11-setting-up-docker.md)
+- [Install and Configure Docker on your Raspberry Pi 4 Model B](./11-setting-up-docker.md)
 
 #### 1 - Make Sure Docker is Working Correctly on Manager Pi
 ---
