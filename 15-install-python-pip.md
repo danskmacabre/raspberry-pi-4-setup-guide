@@ -1,6 +1,6 @@
 # Install Python and PIP
 
-## How to Install Python and PIP on Raspberry Pi 3 Model B+
+## How to Install Python and PIP on Raspberry Pi 4 Model B
 
 #### 1 - Install Python and PIP
 ---
