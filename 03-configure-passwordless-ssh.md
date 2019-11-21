@@ -1,11 +1,11 @@
 # Configure Passwordless SSH
 
-## How to connect to Raspberry Pi 3 Model B+ without password
+## How to connect to Raspberry Pi 4 Model B without password
 
 
 #### Prerequisite(s):
-- [Enable SSH on your Raspberry Pi 3 Model B+](./01-getting-started.md)
-- [Understand how to connect to your Raspberry Pi 3 Model B+ using SSH](./02-configure-ssh.md)
+- [Enable SSH on your Raspberry Pi 4 Model B](./01-getting-started.md)
+- [Understand how to connect to your Raspberry Pi 4 Model B using SSH](./02-configure-ssh.md)
 
 > _Note: We are using word `USER-NAME` in following commands please change it with your operating system's user name_
 
