@@ -1,13 +1,13 @@
 # Install TensorFlow
 
-## How to Install TensorFlow Library on Raspberry Pi 3 Model B+
+## How to Install TensorFlow Library on Raspberry Pi 4 Model B
 
 > _Note: Raspbian is now [officially supported](https://www.tensorflow.org/install/) by TensorFlow community_
 
 #### Prerequisite(s):
-- [Enable Swap Space on your Raspberry Pi 3 Model B+](./06-configure-swap-space.md)
-- [Install and Configure Python and PIP on your Raspberry Pi 3 Model B+](./15-install-python-pip.md)
-- [Install and Configure Python Virtual Environment on your Raspberry Pi 3 Model B+](./16-install-python-virtual-environment.md)
+- [Enable Swap Space on your Raspberry Pi 4 Model B](./06-configure-swap-space.md)
+- [Install and Configure Python and PIP on your Raspberry Pi 4 Model B](./15-install-python-pip.md)
+- [Install and Configure Python Virtual Environment on your Raspberry Pi 4 Model B](./16-install-python-virtual-environment.md)
 
 ---
 #### 1 - Install TensorFlow Prerequisite
