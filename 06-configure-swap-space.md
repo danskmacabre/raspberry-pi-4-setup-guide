@@ -1,6 +1,6 @@
 # Configure Swap Space
 
-## How to configure Swap Space on Raspberry Pi 3 Model B+
+## How to configure Swap Space on Raspberry Pi 4 Model B
 
 > _Note: Raspbian OS shipped with `100MB` swap space_
 
