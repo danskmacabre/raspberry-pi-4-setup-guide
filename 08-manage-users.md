@@ -1,6 +1,6 @@
 # Manage Users
 
-How to Manage Users on Raspberry Pi 3 Model B+
+How to Manage Users on Raspberry Pi 4 Model B
 
 ---
 #### Current User
