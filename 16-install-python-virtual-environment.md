@@ -1,9 +1,9 @@
 # Install Python Virtual Environment
 
-## How to Install Python Virtual Environment on Raspberry Pi 3 Model B+
+## How to Install Python Virtual Environment on Raspberry Pi 4 Model B
 
 #### Prerequisite(s):
-- [Install and Configure Python and PIP on your Raspberry Pi 3 Model B+](./15-install-python-pip.md)
+- [Install and Configure Python and PIP on your Raspberry Pi 4 Model B](./15-install-python-pip.md)
 
 #### 1 - Install Python Virtual Environement
 ---
