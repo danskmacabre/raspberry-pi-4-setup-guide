@@ -1,6 +1,6 @@
 # Setting Up GNU
 
-## How to do a Raspberry Pi 3 Model B+ GNU setup
+## How to do a Raspberry Pi 4 Model B GNU setup
 
 #### Install GNU
 ---
