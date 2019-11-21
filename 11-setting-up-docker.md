@@ -1,6 +1,6 @@
 # Setting Up Docker
 
-## How to setup Docker on Raspberry Pi 3 Model B+
+## How to setup Docker on Raspberry Pi 4 Model B
 
 #### Prerequisite(s):
 ```console
@@ -57,7 +57,7 @@ pi@raspberry:~ $ sudo nano /etc/apt/sources.list
 ```
 > _Append following line_
 ```
-deb https://download.docker.com/linux/raspbian/ stretch stable
+deb https://download.docker.com/linux/raspbian/ buster stable
 ```
 `Ctrl+X` -> `Y` -> `Enter`
 
