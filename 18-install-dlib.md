@@ -1,11 +1,11 @@
 # Install Dlib
 
-## How to Install Dlib Library on Raspberry Pi 3 Model B+
+## How to Install Dlib Library on Raspberry Pi 4 Model B
 
 #### Prerequisite(s):
-- [Enable Swap Space on your Raspberry Pi 3 Model B+](./06-configure-swap-space.md)
-- [Install and Configure Python and PIP on your Raspberry Pi 3 Model B+](./15-install-python-pip.md)
-- [Install and Configure Python Virtual Environment on your Raspberry Pi 3 Model B+](./16-install-python-virtual-environment.md)
+- [Enable Swap Space on your Raspberry Pi 34Model B](./06-configure-swap-space.md)
+- [Install and Configure Python and PIP on your Raspberry Pi 4 Model B](./15-install-python-pip.md)
+- [Install and Configure Python Virtual Environment on your Raspberry Pi 4 Model B](./16-install-python-virtual-environment.md)
 
 #### Update
 ---
