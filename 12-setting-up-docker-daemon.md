@@ -1,9 +1,9 @@
 # Setting Up Docker Daemon
 
-## How to setup Docker Daemon on Raspberry Pi 3 Model B+
+## How to setup Docker Daemon on Raspberry Pi 4 Model B
 
 #### Prerequisite(s):
-- [Install and Configure Docker on your Raspberry Pi 3 Model B+](./11-setting-up-docker.md)
+- [Install and Configure Docker on your Raspberry Pi 4 Model B](./11-setting-up-docker.md)
 
 #### 1 - Initialise Docker Daemon
 ---
