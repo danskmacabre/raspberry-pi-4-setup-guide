@@ -1,6 +1,6 @@
 # Manage Files and Directories
 
-## How to Manage Files and Folders on Raspberry Pi 3 Model B+
+## How to Manage Files and Folders on Raspberry Pi 4 Model B
 
 #### Create Directory
 ---
