@@ -1,8 +1,8 @@
 # Getting Started
 
-## How to do a Raspberry Pi 3 Model B+ headless setup
+## How to do a Raspberry Pi 4 Model B headless setup
 
-#### 1 - Download Raspbian Stretch Lite
+#### 1 - Download Raspbian Buster Lite
 ---
 - [Download Raspbian](https://www.raspberrypi.org/downloads/raspbian/)
 
