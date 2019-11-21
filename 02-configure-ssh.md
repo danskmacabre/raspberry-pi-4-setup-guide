@@ -1,9 +1,9 @@
 # Configure SSH
 
-## How to connect Raspberry Pi 3 Model B+ from remote computer using SSH
+## How to connect Raspberry Pi 4 Model B from remote computer using SSH
 
 #### Prerequisite(s):
-- [Enable SSH on your Raspberry Pi 3 Model B+](./01-getting-started.md)
+- [Enable SSH on your Raspberry Pi 4 Model B](./01-getting-started.md)
 ---
 #### From Linux & Mac OS
 ---
