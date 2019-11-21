@@ -1,10 +1,10 @@
 # Setting Up Docker Swarm Dashboard (Portainer)
 
-## How to setup Docker Swarm Dashboard on Raspberry Pi 3 Model B+
+## How to setup Docker Swarm Dashboard on Raspberry Pi 4 Model B
 
 #### Prerequisite(s):
-- [Install and Configure Docker on your Raspberry Pi 3 Model B+](./11-setting-up-docker.md)
-- [Initialise and Configure Docker Swarm Cluster on all yours Raspberry Pi 3 Model B+](./13-setting-up-docker-swarm-cluster.md)
+- [Install and Configure Docker on your Raspberry Pi 4 Model B](./11-setting-up-docker.md)
+- [Initialise and Configure Docker Swarm Cluster on all yours Raspberry Pi 4 Model B](./13-setting-up-docker-swarm-cluster.md)
 
 #### 1 - Install Portainer (Swarm Dashboard)
 ----
