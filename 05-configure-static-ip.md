@@ -6,7 +6,8 @@
 > _Note: write down IP addresses and names returned by following commands_
 ##### a) Raspberry Pi IP Address
 ```console
-ip -4 addr show | grep global
+
+sudo hostname -I
 ```
 
 ##### b) Gateway IP Address
